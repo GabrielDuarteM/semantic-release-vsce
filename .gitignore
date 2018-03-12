@@ -57,3 +57,5 @@ typings/
 # dotenv environment variables file
 .env
 
+# vscode's settings folder. Useless if you don't use vscode or don't have any workspace specific config.
+.vscode
